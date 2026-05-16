@@ -180,4 +180,4 @@ Real-world performance depends on:
 * [ ] Speculative decoding support
 * [ ] Real trace ingestion (Prometheus / logs)
 * [ ] Autoscaling simulation
-* [ ] VLM-specific memory modeling
+* [ ] VLM-specific memory modeling and configurations

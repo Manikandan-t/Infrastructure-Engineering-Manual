@@ -1,6 +1,9 @@
 # 🚀 GenAI Infrastructure Engineering Manual
 
-**Interactive LLM infrastructure calculator for throughput, latency, memory, and cost modeling.**
+<img width="1272" height="830" alt="Screenshot 2026-05-30 at 3 45 56 PM" src="https://github.com/user-attachments/assets/7abf4a6d-fcba-4168-b27c-05e815d7ca94" />
+
+
+**Interactive LLM infrastructure calculator for throughput, latency, memory, and cost modeling.** - [Infrastructure Engineering Manual](https://manikandan-t.github.io/Infrastructure-Engineering-Manual/)
 
 > Stop guessing your GPU setup. Start reasoning from first principles.
 
@@ -171,13 +174,3 @@ Real-world performance depends on:
 * Backend Engineers moving into GenAI
 * ML Engineers deploying LLMs
 * Platform teams running vLLM / Triton
-
----
-
-## 🚀 Roadmap
-
-* [ ] Multi-node (pipeline parallelism) modeling
-* [ ] Speculative decoding support
-* [ ] Real trace ingestion (Prometheus / logs)
-* [ ] Autoscaling simulation
-* [ ] VLM-specific memory modeling and configurations
